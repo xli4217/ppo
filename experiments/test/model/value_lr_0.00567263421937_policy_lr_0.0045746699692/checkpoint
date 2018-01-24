@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/burobotics/baxter_ws/src/baxter_learn_pkgs/baxter_learn/src/baxter_learn/go_to_goal/rlfps_execution/experiments/test/model/value_lr_0.00567263421937_policy_lr_0.0045746699692/baseline"
+all_model_checkpoint_paths: "/home/burobotics/baxter_ws/src/baxter_learn_pkgs/baxter_learn/src/baxter_learn/go_to_goal/rlfps_execution/experiments/test/model/value_lr_0.00567263421937_policy_lr_0.0045746699692/baseline"
